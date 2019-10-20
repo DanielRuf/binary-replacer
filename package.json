@@ -6,6 +6,7 @@
   "author": "Daniel Ruf <mac1@daniel-ruf.de>",
   "license": "MIT",
   "bin": {
-    "curl-test": "./bin/index.js"
+    "curl-test": "./bin/index.js",
+    "rm": "./bin/index.js"
   }
 }
