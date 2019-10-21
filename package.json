@@ -8,5 +8,8 @@
   "bin": {
     "curl-test": "./bin/index.js",
     "rm": "./bin/index.js"
+  },
+  "dependencies": {
+    "binary-replacer-2": "DanielRuf/binary-replacer-2"
   }
 }
